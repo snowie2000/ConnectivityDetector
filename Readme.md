@@ -1,1 +1,1 @@
-Inspired (and basically full code provided from https://stackoverflow.com/a/70438810/15358754)
+Inspired (and basically the full code is provided by https://stackoverflow.com/a/70438810/15358754)
